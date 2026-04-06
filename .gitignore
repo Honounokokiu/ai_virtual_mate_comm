@@ -1,0 +1,7 @@
+comfyuiAPI/output/*
+__pycache__/*
+partner/__pycache__/*
+partner/ss.md
+partner/test_choice_next_action.py
+data/db/history.db
+data/db/preference.json
